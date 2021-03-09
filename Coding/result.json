@@ -1,0 +1,2265 @@
+{
+ "name": "Machine Learning with Python",
+ "type": "private_supergroup",
+ "id": 10017328477,
+ "messages": [
+  {
+   "id": -999029553,
+   "type": "service",
+   "date": "2021-01-27T17:32:53",
+   "actor": "Ali Hejazi",
+   "actor_id": 4368073731,
+   "action": "create_group",
+   "title": "Machine Learning with Python",
+   "members": [
+    "Ali Hejazi",
+    "Fatemeh Modarres"
+   ],
+   "text": ""
+  },
+  {
+   "id": -999029551,
+   "type": "service",
+   "date": "2021-01-27T17:33:06",
+   "actor": "Ali Hejazi",
+   "actor_id": 4368073731,
+   "action": "edit_group_photo",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 640,
+   "height": 640,
+   "text": ""
+  },
+  {
+   "id": -999029549,
+   "type": "service",
+   "date": "2021-01-27T17:33:43",
+   "actor": "Ali Hejazi",
+   "actor_id": 4368073731,
+   "action": "migrate_to_supergroup",
+   "text": ""
+  },
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2021-01-27T17:33:43",
+   "actor": "Machine Learning with Python",
+   "actor_id": 10017328477,
+   "action": "migrate_from_group",
+   "title": "Machine Learning with Python",
+   "text": ""
+  },
+  {
+   "id": 2,
+   "type": "service",
+   "date": "2021-01-27T17:44:45",
+   "actor": "Mohsen",
+   "actor_id": 4421955607,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3,
+   "type": "service",
+   "date": "2021-01-27T17:49:59",
+   "actor": "Sara Gh",
+   "actor_id": 4393680157,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 4,
+   "type": "service",
+   "date": "2021-01-27T17:50:52",
+   "actor": "Mahsa Taheri",
+   "actor_id": 4589492349,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 5,
+   "type": "service",
+   "date": "2021-01-27T17:50:54",
+   "actor": "Mohammad pmb",
+   "actor_id": 5432092319,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 6,
+   "type": "service",
+   "date": "2021-01-27T17:52:29",
+   "actor": "Ali Naeim abadi",
+   "actor_id": 4696667948,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 7,
+   "type": "service",
+   "date": "2021-01-27T17:53:22",
+   "actor": "Gazal",
+   "actor_id": 4863847010,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 8,
+   "type": "service",
+   "date": "2021-01-27T17:54:34",
+   "actor": "Mostafa",
+   "actor_id": 4388900133,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 9,
+   "type": "service",
+   "date": "2021-01-27T17:56:24",
+   "actor": "Arash",
+   "actor_id": 4390579564,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 10,
+   "type": "service",
+   "date": "2021-01-27T18:15:17",
+   "actor": "Zohreh",
+   "actor_id": 4398325101,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 11,
+   "type": "service",
+   "date": "2021-01-27T18:22:20",
+   "actor": "Fahimeh B",
+   "actor_id": 4353372142,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 12,
+   "type": "service",
+   "date": "2021-01-27T18:37:43",
+   "actor": "Farnoush Azour",
+   "actor_id": 4406879197,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 13,
+   "type": "service",
+   "date": "2021-01-27T18:45:24",
+   "actor": "Leila",
+   "actor_id": 4370253936,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 14,
+   "type": "service",
+   "date": "2021-01-27T18:57:28",
+   "actor": "Amir Sajedian",
+   "actor_id": 4377290921,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 15,
+   "type": "service",
+   "date": "2021-01-27T18:57:37",
+   "actor": "Hamid Alian",
+   "actor_id": 4361891224,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 18,
+   "type": "service",
+   "date": "2021-01-28T02:19:36",
+   "actor": "Masoud Zarepoor",
+   "actor_id": 4463891971,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 19,
+   "type": "message",
+   "date": "2021-01-28T19:27:48",
+   "from": "Fatemeh Modarres",
+   "from_id": 4727036304,
+   "text": "سلام ب همگی، علی، امشب کلاس رفع اشکال چه ساعتی هست؟"
+  },
+  {
+   "id": 20,
+   "type": "message",
+   "date": "2021-01-28T19:28:39",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "text": "سلام\nامشب وقت نشد چیزی بذارم. همون شنبه ادامه میدیم. هفته‌ی بعد چند جلسه میذارم."
+  },
+  {
+   "id": 21,
+   "type": "service",
+   "date": "2021-01-28T19:28:50",
+   "actor": "Arefe B",
+   "actor_id": 4363571851,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 22,
+   "type": "message",
+   "date": "2021-01-28T19:43:46",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "علی دستت درد نکنه میشه لینک شنیه قبل رو هم بذاری؟"
+  },
+  {
+   "id": 23,
+   "type": "message",
+   "date": "2021-01-28T19:44:48",
+   "from": "Mahsa Taheri",
+   "from_id": 4589492349,
+   "text": "بچه‌های این کلاس همگی درس خونن‌ها 😁"
+  },
+  {
+   "id": 24,
+   "type": "message",
+   "date": "2021-01-28T19:51:48",
+   "from": "Fatemeh Modarres",
+   "from_id": 4727036304,
+   "reply_to_message_id": 20,
+   "text": "اوکی\nمرسیییی"
+  },
+  {
+   "id": 25,
+   "type": "message",
+   "date": "2021-01-28T19:54:03",
+   "from": "Amir Sajedian",
+   "from_id": 4377290921,
+   "reply_to_message_id": 20,
+   "text": "نه آقا همون دو جلسه خوبه. عالی . یک"
+  },
+  {
+   "id": 26,
+   "type": "message",
+   "date": "2021-01-29T14:31:36",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "text": [
+    "رکوردینگ روز شنبه (دو قسمت):\n\n",
+    {
+     "type": "link",
+     "text": "https://ualberta-ca.zoom.us/rec/share/2Sij30-vvxhUEFlYWRwNj0Tz2fB0iIw0View30aBces6SZnzeV5kdlXyEd6dXvc3.9FDDUsjJDHH4_lxa?startTime=1611449997000"
+    },
+    "\n\n",
+    {
+     "type": "link",
+     "text": "https://ualberta-ca.zoom.us/rec/share/2Sij30-vvxhUEFlYWRwNj0Tz2fB0iIw0View30aBces6SZnzeV5kdlXyEd6dXvc3.9FDDUsjJDHH4_lxa?startTime=1611453242000"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 27,
+   "type": "message",
+   "date": "2021-01-29T14:33:53",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "دستت طلا علی"
+  },
+  {
+   "id": 28,
+   "type": "message",
+   "date": "2021-01-29T14:33:59",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "text": "قربانت"
+  },
+  {
+   "id": 29,
+   "type": "message",
+   "date": "2021-01-29T14:34:51",
+   "edited": "2021-01-29T14:34:58",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "text": [
+    "بچه‌ها جلسه‌ی فردا ",
+    {
+     "type": "bold",
+     "text": "ساعت ۵"
+    },
+    " خواهد بود که خیلی به دیر وقت نخوره. امیدوارم کسی مشکلی نداشته باشه از لحاظ زمانی."
+   ]
+  },
+  {
+   "id": 30,
+   "type": "message",
+   "date": "2021-01-29T14:35:05",
+   "from": "Fatemeh Modarres",
+   "from_id": 4727036304,
+   "text": "👌"
+  },
+  {
+   "id": 31,
+   "type": "message",
+   "date": "2021-01-29T14:35:06",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "👍👍"
+  },
+  {
+   "id": 32,
+   "type": "message",
+   "date": "2021-01-29T14:35:25",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "علی دو ساعته ایشالا؟"
+  },
+  {
+   "id": 33,
+   "type": "message",
+   "date": "2021-01-29T14:35:31",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "text": "آره"
+  },
+  {
+   "id": 34,
+   "type": "message",
+   "date": "2021-01-29T15:13:48",
+   "from": "Farnoush Azour",
+   "from_id": 4406879197,
+   "text": "👍🏼👍🏼"
+  },
+  {
+   "id": 35,
+   "type": "message",
+   "date": "2021-01-29T15:14:17",
+   "from": "Ali Naeim abadi",
+   "from_id": 4696667948,
+   "text": "ممنون"
+  },
+  {
+   "id": 36,
+   "type": "message",
+   "date": "2021-01-29T15:31:25",
+   "from": "Arefe B",
+   "from_id": 4363571851,
+   "reply_to_message_id": 29,
+   "text": "عالی"
+  },
+  {
+   "id": 37,
+   "type": "message",
+   "date": "2021-01-29T15:54:16",
+   "from": "Sara Gh",
+   "from_id": 4393680157,
+   "reply_to_message_id": 26,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 38,
+   "type": "message",
+   "date": "2021-01-29T15:54:26",
+   "from": "Sara Gh",
+   "from_id": 4393680157,
+   "reply_to_message_id": 29,
+   "text": "دمت گرم استاد حجازی"
+  },
+  {
+   "id": 39,
+   "type": "message",
+   "date": "2021-01-29T17:54:52",
+   "from": "Arash",
+   "from_id": 4390579564,
+   "reply_to_message_id": 29,
+   "text": "👍"
+  },
+  {
+   "id": 40,
+   "type": "message",
+   "date": "2021-01-29T18:05:56",
+   "from": "Gazal",
+   "from_id": 4863847010,
+   "reply_to_message_id": 29,
+   "text": "👌"
+  },
+  {
+   "id": 41,
+   "type": "message",
+   "date": "2021-01-29T18:57:53",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Aliii_H93"
+    },
+    " علی انگار پسورداین دو تا فیلم رو‌ تو فایل که شیر کردی ندادی!"
+   ]
+  },
+  {
+   "id": 42,
+   "type": "message",
+   "date": "2021-01-29T18:58:07",
+   "from": "Amir Sajedian",
+   "from_id": 4377290921,
+   "reply_to_message_id": 29,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 3,
+   "width": 320,
+   "height": 170,
+   "text": ""
+  },
+  {
+   "id": 43,
+   "type": "message",
+   "date": "2021-01-29T18:59:32",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 41,
+   "text": "الان کلا پسورد رو از روش برداشتم. ببین کار می‌کنه الان یا نه."
+  },
+  {
+   "id": 44,
+   "type": "message",
+   "date": "2021-01-29T18:59:54",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "بله بله"
+  },
+  {
+   "id": 45,
+   "type": "message",
+   "date": "2021-01-29T19:00:01",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "با تشکر از اقدام فوری"
+  },
+  {
+   "id": 46,
+   "type": "message",
+   "date": "2021-01-29T19:01:49",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "text": "قربانت\n\nاگه کسی از جلسه‌های قبلی سوالی داشت یا کلا هر مشکلی میشه امشب هم یه جلسه گذاشت.\nخلاصه که اگه کسی مشکلی داشت بگه ست می‌کنیم امشب"
+  },
+  {
+   "id": 47,
+   "type": "message",
+   "date": "2021-01-29T19:02:06",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "دستت طلا"
+  },
+  {
+   "id": 48,
+   "type": "service",
+   "date": "2021-01-30T15:31:19",
+   "actor": "Hossein",
+   "actor_id": 4661054632,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 49,
+   "type": "message",
+   "date": "2021-01-30T16:49:08",
+   "from": "Arefe B",
+   "from_id": 4363571851,
+   "text": "استاد لینک کلاس رو هم لطفا شیر کن"
+  },
+  {
+   "id": 50,
+   "type": "message",
+   "date": "2021-01-30T16:56:02",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "text": [
+    "Join Zoom Meeting\n",
+    {
+     "type": "link",
+     "text": "https://ualberta-ca.zoom.us/j/95853826969?pwd=alFHVUZaY0ZQK3RtQ0ZGa0EzQldQQT09"
+    },
+    "\n\nMeeting ID: 958 5382 69"
+   ]
+  },
+  {
+   "id": 51,
+   "type": "message",
+   "date": "2021-01-30T16:57:48",
+   "from": "Arefe B",
+   "from_id": 4363571851,
+   "text": "مرسی"
+  },
+  {
+   "id": 52,
+   "type": "service",
+   "date": "2021-01-30T20:17:28",
+   "actor": "Peyman T",
+   "actor_id": 4393582365,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 53,
+   "type": "message",
+   "date": "2021-01-31T12:23:36",
+   "from": "Peyman T",
+   "from_id": 4393582365,
+   "text": "سلام به همه‌ی علم‌آموزان و دانشمندان\nدوستان لینک کلیه‌ی جلسات برگزار شده از ابتدا رو لطف می‌کنید به من بدید تا بلکه از پشت و لنگ‌لنگ برسونم خودم رو؟\nممنون"
+  },
+  {
+   "id": 54,
+   "type": "message",
+   "date": "2021-01-31T12:25:16",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "پیمان یاد این افتادم:\n\nانکس که نداند و بداند که نداد\nلنگان خرک خویش به مقصد برساند"
+  },
+  {
+   "id": 55,
+   "type": "message",
+   "date": "2021-01-31T12:26:48",
+   "from": "Peyman T",
+   "from_id": 4393582365,
+   "reply_to_message_id": 54,
+   "text": "من واقعا همین شعر پس ذهنم بود این پیام رو نوشتم😁😂"
+  },
+  {
+   "id": 56,
+   "type": "message",
+   "date": "2021-01-31T12:27:00",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "😂😂😂😂"
+  },
+  {
+   "id": 57,
+   "type": "message",
+   "date": "2021-01-31T12:27:43",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "دو تا لینکی که بالا هست رو نمیتونی ببینی؟"
+  },
+  {
+   "id": 58,
+   "type": "message",
+   "date": "2021-01-31T12:29:23",
+   "from": "Peyman T",
+   "from_id": 4393582365,
+   "reply_to_message_id": 57,
+   "text": "نوشته روز شنبه\nروزهای دیگر چه؟"
+  },
+  {
+   "id": 59,
+   "type": "message",
+   "date": "2021-01-31T12:29:55",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "reply_to_message_id": 50,
+   "text": [
+    {
+     "type": "mention_name",
+     "text": "Peyman",
+     "user_id": 98615069
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "type": "message",
+   "date": "2021-01-31T12:30:13",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "reply_to_message_id": 26,
+   "text": [
+    {
+     "type": "mention_name",
+     "text": "Peyman",
+     "user_id": 98615069
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "type": "message",
+   "date": "2021-01-31T12:30:24",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "الان بقیه رو هم واست میفرستم"
+  },
+  {
+   "id": 62,
+   "type": "message",
+   "date": "2021-01-31T12:31:01",
+   "from": "Peyman T",
+   "from_id": 4393582365,
+   "reply_to_message_id": 59,
+   "text": "این فقط میتینگه\nریکوردینگ نیست"
+  },
+  {
+   "id": 63,
+   "type": "message",
+   "date": "2021-01-31T12:31:05",
+   "from": "Peyman T",
+   "from_id": 4393582365,
+   "reply_to_message_id": 61,
+   "text": "مرسی"
+  },
+  {
+   "id": 64,
+   "type": "message",
+   "date": "2021-01-31T12:31:13",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "forwarded_from": "Ali Hejazi",
+   "text": [
+    "لینک جلسه‌ی دوم که رکورد شد:\n\nShare recording with viewers:\n",
+    {
+     "type": "link",
+     "text": "https://ualberta-ca.zoom.us/rec/share/OL33TqieHHvpSpiAxiaGWs7ub57w68HIotEZGIq_zAaSL-XiPwf_fnYyihBb03M.iN4_3NQ0piKKePjq"
+    },
+    "\n\nPasscode: ",
+    {
+     "type": "bold",
+     "text": "%+&M7eeJ"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 65,
+   "type": "message",
+   "date": "2021-01-31T12:31:14",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "forwarded_from": "Ali Hejazi",
+   "text": [
+    "بچه‌ها لینک جلسه‌ی ضبط شده‌ی امروز:\n\nShare recording with viewers:\n",
+    {
+     "type": "link",
+     "text": "https://ualberta-ca.zoom.us/rec/share/dinVOUunn0GSmF19aPJDIDPkB8yT1LuZcMpOhWcGZcTRbv7_ZwNqpKLpbXsjW-w.bDFrB-mDOzBhpSqP"
+    },
+    "\n\nPasscode: UUHSp1=Q"
+   ]
+  },
+  {
+   "id": 66,
+   "type": "message",
+   "date": "2021-01-31T12:31:14",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "forwarded_from": "Ali Hejazi",
+   "text": [
+    "جلسه‌ی چهارشنبه‌ی پایتون (Data Structure)\n\nShare recording with viewers:\n",
+    {
+     "type": "link",
+     "text": "https://ualberta-ca.zoom.us/rec/share/_Sc2uKcwJwKq_igaqmc6yZOaEJFdasebnsr53BZwQAZbfnExEDc9DCrIfjU--16b.mO3lZPXRisMXneq7"
+    },
+    " \n\nPasscode: R%r63^?s"
+   ]
+  },
+  {
+   "id": 67,
+   "type": "message",
+   "date": "2021-01-31T12:31:45",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "reply_to_message_id": 62,
+   "text": "اره حواسم نبود"
+  },
+  {
+   "id": 68,
+   "type": "message",
+   "date": "2021-01-31T14:50:51",
+   "from": "Peyman T",
+   "from_id": 4393582365,
+   "text": "لینک جلسه‌ی اول رو (نصب نرم‌افزارها و فلان) دارید؟"
+  },
+  {
+   "id": 69,
+   "type": "message",
+   "date": "2021-01-31T14:52:00",
+   "from": "Amir Sajedian",
+   "from_id": 4377290921,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Aliii_H93"
+    },
+    " علی جان، لینک ویدیو جلسه آخر رو لطفا می ذاری؟"
+   ]
+  },
+  {
+   "id": 70,
+   "type": "message",
+   "date": "2021-01-31T15:04:21",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "forwarded_from": "Ali Hejazi",
+   "text": [
+    "بچه ها لینک جلسه ضبط شده پایتون دیشب:\n\nShare recording with viewers:\n",
+    {
+     "type": "link",
+     "text": "https://ualberta-ca.zoom.us/rec/share/sYexwg7zmf_JVgKzS3RW2Vw00orCLTkQWzRoI0OBZuR35RPUDT2b5owPUByWBYG7.E5-kTaoP3-5o6hSR"
+    },
+    "\n\nPasscode: ",
+    {
+     "type": "bold",
+     "text": "1K2YNEH^"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 71,
+   "type": "message",
+   "date": "2021-01-31T15:04:29",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "reply_to_message_id": 68,
+   "text": "اینه"
+  },
+  {
+   "id": 72,
+   "type": "message",
+   "date": "2021-01-31T15:08:22",
+   "from": "Amir Sajedian",
+   "from_id": 4377290921,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "width": 469,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 73,
+   "type": "message",
+   "date": "2021-01-31T15:12:18",
+   "from": "Sara Gh",
+   "from_id": 4393680157,
+   "reply_to_message_id": 70,
+   "text": "بچه ها جون این جلسه اول کلاس هستش"
+  },
+  {
+   "id": 74,
+   "type": "message",
+   "date": "2021-01-31T15:15:45",
+   "from": "Sara Gh",
+   "from_id": 4393680157,
+   "text": [
+    "علی جان داشتم فکر میکردم عالی میشه اگر وقتی لینک جلسات رو میذاری تاریخ کلاس رو هم ذکر کنی🙃🙃 ",
+    {
+     "type": "mention",
+     "text": "@Aliii_H93"
+    },
+    " ."
+   ]
+  },
+  {
+   "id": 75,
+   "type": "message",
+   "date": "2021-01-31T23:22:09",
+   "from": "Machine Learning with Python",
+   "from_id": 9773638208,
+   "forwarded_from": "Machine Learning with Python",
+   "saved_from": "Machine Learning with Python",
+   "text": [
+    "⚡️ لینک گوگل داک تمامی جلسات:\n",
+    {
+     "type": "link",
+     "text": "https://docs.google.com/document/d/1t2fcJoNYOu7Z4gXX-e99eQ5Ha-6dxE-aY1tVrubXHtI/edit#"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 76,
+   "type": "message",
+   "date": "2021-01-31T23:22:53",
+   "edited": "2021-01-31T23:24:21",
+   "from": "Machine Learning with Python",
+   "from_id": 10017328477,
+   "reply_to_message_id": 75,
+   "text": "بچه‌ها لینک همه‌ی جلسه‌ها و تاریخ و تاپیکشون رو گذاشتم توی این گوگل داک. یه channel وصل کردم به گروه که لینک‌ها و پست‌های مهم پاک یا گم نشه."
+  },
+  {
+   "id": 77,
+   "type": "message",
+   "date": "2021-01-31T23:24:31",
+   "from": "Sara Gh",
+   "from_id": 4393680157,
+   "reply_to_message_id": 76,
+   "text": "دمت گرم علی👌 من الان روش کلیک کردم access request نیاز داره"
+  },
+  {
+   "id": 78,
+   "type": "message",
+   "date": "2021-01-31T23:25:00",
+   "edited": "2021-01-31T23:25:05",
+   "from": "Machine Learning with Python",
+   "from_id": 10017328477,
+   "reply_to_message_id": 77,
+   "text": "قربانت. فکر کنم الان درست شد. قبلش فقط با ایمیل آلبرتا میشد"
+  },
+  {
+   "id": 79,
+   "type": "message",
+   "date": "2021-01-31T23:25:35",
+   "from": "Sara Gh",
+   "from_id": 4393680157,
+   "reply_to_message_id": 78,
+   "text": "اره درست شد. عالیییی👌👌"
+  },
+  {
+   "id": 80,
+   "type": "message",
+   "date": "2021-01-31T23:39:30",
+   "from": "Sara Gh",
+   "from_id": 4393680157,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 81,
+   "type": "message",
+   "date": "2021-02-01T07:21:48",
+   "from": "Arash",
+   "from_id": 4390579564,
+   "reply_to_message_id": 76,
+   "text": "ممنون علی جان"
+  },
+  {
+   "id": 82,
+   "type": "message",
+   "date": "2021-02-01T08:40:32",
+   "from": "Amir Sajedian",
+   "from_id": 4377290921,
+   "reply_to_message_id": 76,
+   "text": "🙌🙌🙌🙌"
+  },
+  {
+   "id": 83,
+   "type": "service",
+   "date": "2021-02-01T10:55:43",
+   "actor": "Amin",
+   "actor_id": 4374930430,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 84,
+   "type": "message",
+   "date": "2021-02-01T15:35:31",
+   "from": "Arash",
+   "from_id": 4390579564,
+   "text": "علی امروز کلاس هست؟"
+  },
+  {
+   "id": 85,
+   "type": "message",
+   "date": "2021-02-01T15:56:53",
+   "edited": "2021-02-01T16:02:31",
+   "from": "Machine Learning with Python",
+   "from_id": 9773638208,
+   "forwarded_from": "Machine Learning with Python",
+   "saved_from": "Machine Learning with Python",
+   "text": [
+    {
+     "type": "bold",
+     "text": "⚡️ زمان بندی جلسات:\n\n"
+    },
+    "Saturdays:          ",
+    {
+     "type": "text_link",
+     "text": "Python",
+     "href": "https://www.google.com/url?q=https://ualberta-ca.zoom.us/j/98969937785?pwd%3DZ1dyNlpRelBETlNzWGlqWkdzQjUxUT09&sa=D&source=calendar&ust=1612652436285000&usg=AOvVaw0THsOQoKaNAF_IURh3zQnd"
+    },
+    "    \nMondays:            ",
+    {
+     "type": "text_link",
+     "text": "Linux\n",
+     "href": "https://www.google.com/url?q=https://ualberta-ca.zoom.us/j/94129977952?pwd%3DY0twSFRYSDl0bFdJSFlYcjcycHRQdz09&sa=D&source=calendar&ust=1612652344293000&usg=AOvVaw12frwFBdUeT-38CU4Aeorq"
+    },
+    "Wednesdays:     ",
+    {
+     "type": "text_link",
+     "text": "Data Structure\n",
+     "href": "https://www.google.com/url?q=https://ualberta-ca.zoom.us/j/91703806108?pwd%3DbEprR2locTVTOE1zeGgxT2RsclNnQT09&sa=D&source=calendar&ust=1612652527064000&usg=AOvVaw2Q3Aq9hDANJSbWiRUCDFnT"
+    },
+    "Fridays:",
+    {
+     "type": "bold",
+     "text": "               "
+    },
+    {
+     "type": "text_link",
+     "text": "Python Practice\n\n",
+     "href": "https://www.google.com/url?q=https://ualberta-ca.zoom.us/j/91991332592?pwd%3DMkh3VytjN0V0VERERDIyVi9Xb0dNdz09&sa=D&source=calendar&ust=1612652514971000&usg=AOvVaw3Dv8sOy1dn8DoMwegH6XP_"
+    },
+    {
+     "type": "bold",
+     "text": "(همه‌ی جلسات ساعت ۵:۳۰ تا ۷ برگزار میشه)"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 86,
+   "type": "message",
+   "date": "2021-02-01T15:57:17",
+   "edited": "2021-02-01T16:06:37",
+   "from": "Machine Learning with Python",
+   "from_id": 10017328477,
+   "reply_to_message_id": 84,
+   "text": "آره امروز ۵:۳۰ تا ۷ جلسه‌ی اول لینوکسه. لینک هر جلسه توی پیام قبلی hyperlink شده."
+  },
+  {
+   "id": 87,
+   "type": "message",
+   "date": "2021-02-01T16:25:14",
+   "from": "Arash",
+   "from_id": 4390579564,
+   "reply_to_message_id": 85,
+   "text": "لینک جلسات، زمانبندی و همه چی مرتب و منظم ای ول 💐"
+  },
+  {
+   "id": 88,
+   "type": "message",
+   "date": "2021-02-01T17:30:56",
+   "edited": "2021-02-01T17:31:47",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "text": [
+    "بچه‌ها کلاس لینوکس شروع شده اگه کسی می‌خواد بیاد.\n\n",
+    {
+     "type": "link",
+     "text": "https://www.google.com/url?q=https://ualberta-ca.zoom.us/j/94129977952?pwd%3DY0twSFRYSDl0bFdJSFlYcjcycHRQdz09&sa=D&source=calendar&ust=1612652344293000&usg=AOvVaw12frwFBdUeT-38CU4Aeorq"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 89,
+   "type": "service",
+   "date": "2021-02-01T18:27:45",
+   "actor": "Arefe B",
+   "actor_id": 4363571851,
+   "action": "invite_members",
+   "members": [
+    "Masoud Milad"
+   ],
+   "text": ""
+  },
+  {
+   "id": 90,
+   "type": "message",
+   "date": "2021-02-02T00:28:37",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 75,
+   "text": "بچه‌ها لینک جلسه‌ها رو توی همین گوگل داک هر دفعه آپدیت می‌کنم. الان جلسه‌ی اول لینوکس رو گذاشتم."
+  },
+  {
+   "id": 91,
+   "type": "message",
+   "date": "2021-02-02T00:29:31",
+   "from": "Sara Gh",
+   "from_id": 4393680157,
+   "reply_to_message_id": 90,
+   "text": "مرسییی علی جان🙏🏻🙏🏻"
+  },
+  {
+   "id": 92,
+   "type": "message",
+   "date": "2021-02-02T18:10:53",
+   "from": "Arefe B",
+   "from_id": 4363571851,
+   "reply_to_message_id": 90,
+   "text": "عالی ممنون"
+  },
+  {
+   "id": 93,
+   "type": "message",
+   "date": "2021-02-03T17:16:29",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 85,
+   "text": "بچه‌ها جلسه‌ی ساعت ۵ و نیم فراموش نشه"
+  },
+  {
+   "id": 94,
+   "type": "message",
+   "date": "2021-02-03T17:28:28",
+   "from": "Arash",
+   "from_id": 4390579564,
+   "text": "علی جان لینک زوم رو میسازی"
+  },
+  {
+   "id": 95,
+   "type": "message",
+   "date": "2021-02-03T17:29:20",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 85,
+   "text": "این لینک‌ها که پین شدن هفتگی هستش. یعنی هر هفته کار می‌کنه دیگه لینک جدید نمی‌سازم"
+  },
+  {
+   "id": 96,
+   "type": "message",
+   "date": "2021-02-03T17:29:48",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "text": [
+    "الان برین توی لینک data structure\n\n",
+    {
+     "type": "link",
+     "text": "https://www.google.com/url?q=https://ualberta-ca.zoom.us/j/91703806108?pwd%3DbEprR2locTVTOE1zeGgxT2RsclNnQT09&sa=D&source=calendar&ust=1612652527064000&usg=AOvVaw2Q3Aq9hDANJSbWiRUCDFnT"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 97,
+   "type": "service",
+   "date": "2021-02-03T18:23:07",
+   "actor": "Amin",
+   "actor_id": 4391189599,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 98,
+   "type": "service",
+   "date": "2021-02-03T18:23:39",
+   "actor": "Hadi",
+   "actor_id": 4405757495,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 99,
+   "type": "message",
+   "date": "2021-02-04T15:45:19",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 75,
+   "text": [
+    "هادی لینک همه‌ی جلسه‌ها توی این گوگل داک هست و آپدیت میشه.\nاگه بقیه هم لازم دارن گفتم یه بار دیگه بگم.\n",
+    {
+     "type": "mention",
+     "text": "@HadiiGhz"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 100,
+   "type": "message",
+   "date": "2021-02-04T15:46:52",
+   "from": "Sara Gh",
+   "from_id": 4393680157,
+   "reply_to_message_id": 85,
+   "text": "بچه ها جون، برای هر کلاس، تاپیک کلاس خودش لینک زوم هستش. روی تاپیک کلاس اون روز کلیک کنید."
+  },
+  {
+   "id": 101,
+   "type": "message",
+   "date": "2021-02-04T15:48:12",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "reply_to_message_id": 99,
+   "text": "لینک دیروز هم گذاشتی علی جان؟"
+  },
+  {
+   "id": 102,
+   "type": "message",
+   "date": "2021-02-04T16:18:02",
+   "from": "Hadi",
+   "from_id": 4405757495,
+   "reply_to_message_id": 99,
+   "text": "دستت درد نکنه علی جان"
+  },
+  {
+   "id": 103,
+   "type": "message",
+   "date": "2021-02-04T16:37:38",
+   "edited": "2021-02-04T16:40:12",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 101,
+   "text": "آره الان اضافه شد."
+  },
+  {
+   "id": 104,
+   "type": "message",
+   "date": "2021-02-04T16:37:41",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 102,
+   "text": "قربانت"
+  },
+  {
+   "id": 105,
+   "type": "message",
+   "date": "2021-02-04T17:07:45",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "reply_to_message_id": 103,
+   "text": "دستت طلا"
+  },
+  {
+   "id": 106,
+   "type": "message",
+   "date": "2021-02-05T16:56:19",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 85,
+   "text": "بچه‌ها جلسه‌ی ساعت ۵:۳۰ یادتون نره. مهم هم هست چون تمرین روی همه‌ی چیزهاییه که گفتیم."
+  },
+  {
+   "id": 107,
+   "type": "message",
+   "date": "2021-02-05T17:11:16",
+   "from": "Farnoush Azour",
+   "from_id": 4406879197,
+   "text": "یس یس"
+  },
+  {
+   "id": 108,
+   "type": "message",
+   "date": "2021-02-05T17:30:09",
+   "edited": "2021-02-05T17:30:13",
+   "from": "Arefe B",
+   "from_id": 4363571851,
+   "text": "لینک کلاس رو میفرستی علی جان"
+  },
+  {
+   "id": 109,
+   "type": "message",
+   "date": "2021-02-05T17:30:33",
+   "from": "Farnoush Azour",
+   "from_id": 4406879197,
+   "reply_to_message_id": 85,
+   "text": "اینجا کلیک کنین"
+  },
+  {
+   "id": 110,
+   "type": "message",
+   "date": "2021-02-05T17:32:59",
+   "from": "Machine Learning with Python",
+   "from_id": 9773638208,
+   "forwarded_from": "Machine Learning with Python",
+   "saved_from": "Machine Learning with Python",
+   "text": [
+    "⚡️ لینک مطالب و کدها:\n",
+    {
+     "type": "link",
+     "text": "https://github.com/hejazizo/CS-Tutorial"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 111,
+   "type": "message",
+   "date": "2021-02-05T17:36:14",
+   "from": "Arefe B",
+   "from_id": 4363571851,
+   "reply_to_message_id": 109,
+   "text": "👌"
+  },
+  {
+   "id": 112,
+   "type": "message",
+   "date": "2021-02-06T17:00:25",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 85,
+   "text": "کلاس پایتون ساعت ۵ و نیم یادتون نره."
+  },
+  {
+   "id": 113,
+   "type": "message",
+   "date": "2021-02-06T17:01:57",
+   "from": "Mohammad pmb",
+   "from_id": 5432092319,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👨‍💼",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 114,
+   "type": "message",
+   "date": "2021-02-07T09:17:19",
+   "from": "Amir Sajedian",
+   "from_id": 4377290921,
+   "reply_to_message_id": 75,
+   "text": "علی جان دستت درد نکنه. من منتظرم این امتحانم تموم شد همه رو مرور کنم. واقعا زحمت کشیدی"
+  },
+  {
+   "id": 115,
+   "type": "message",
+   "date": "2021-02-07T23:52:40",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "علی جون لینک دو جلسه اخیر روهر زمان بذاری ازت بسیار ممنون میشم 🙏🏻🙏🏻🙏🏻"
+  },
+  {
+   "id": 116,
+   "type": "message",
+   "date": "2021-02-08T10:48:22",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 114,
+   "text": "قربانت."
+  },
+  {
+   "id": 117,
+   "type": "message",
+   "date": "2021-02-08T10:48:44",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 115,
+   "text": "الان Practice Session 02 و Session 05 اضافه شدن."
+  },
+  {
+   "id": 118,
+   "type": "message",
+   "date": "2021-02-08T13:54:54",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "reply_to_message_id": 117,
+   "text": "🙏🏻🙏🏻🙏🏻🙏🏻"
+  },
+  {
+   "id": 119,
+   "type": "message",
+   "date": "2021-02-08T17:25:10",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 85,
+   "text": "کلاس لینوکس تا چند دقیقه‌ی دیگه."
+  },
+  {
+   "id": 120,
+   "type": "message",
+   "date": "2021-02-08T17:30:31",
+   "from": "Arefe B",
+   "from_id": 4363571851,
+   "reply_to_message_id": 119,
+   "text": "من با سیستم دیگه وارد شدم ازم password میخواد"
+  },
+  {
+   "id": 121,
+   "type": "message",
+   "date": "2021-02-08T17:30:55",
+   "from": "Gazal",
+   "from_id": 4863847010,
+   "reply_to_message_id": 120,
+   "text": "999999"
+  },
+  {
+   "id": 122,
+   "type": "message",
+   "date": "2021-02-08T17:31:08",
+   "from": "Arefe B",
+   "from_id": 4363571851,
+   "text": "مرسی"
+  },
+  {
+   "id": 123,
+   "type": "message",
+   "date": "2021-02-08T17:37:01",
+   "from": "Gazal",
+   "from_id": 4863847010,
+   "reply_to_message_id": 122,
+   "text": "قربانت"
+  },
+  {
+   "id": 124,
+   "type": "message",
+   "date": "2021-02-08T23:36:49",
+   "from": "Sara Gh",
+   "from_id": 4393680157,
+   "reply_to_message_id": 117,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 125,
+   "type": "message",
+   "date": "2021-02-10T12:13:34",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "text": [
+    {
+     "type": "text_link",
+     "text": "Brain2Pix: Fully convolutional naturalistic video reconstruction from brain activity\n\n",
+     "href": "https://www.biorxiv.org/content/10.1101/2021.02.02.429430v1.full.pdf"
+    },
+    "تصاویری که مغز می‌بینه رو از روی سیگنال‌های مغزی مدل و بازسازی کردن (در راستای همون بحث که خواب دیدن آدم رو هم visualize کردن)."
+   ]
+  },
+  {
+   "id": 126,
+   "type": "message",
+   "date": "2021-02-10T12:34:28",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "reply_to_message_id": 125,
+   "text": "با دین و ایمون ما جماعت رعیت بازی نکن علی 😂"
+  },
+  {
+   "id": 127,
+   "type": "message",
+   "date": "2021-02-10T12:35:29",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 126,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 2,
+   "width": 688,
+   "height": 400,
+   "text": ""
+  },
+  {
+   "id": 128,
+   "type": "message",
+   "date": "2021-02-10T13:11:37",
+   "from": "Fatemeh Modarres",
+   "from_id": 4727036304,
+   "reply_to_message_id": 125,
+   "text": "یعنی در اینده نزدیک، میشه یه ربات ساخت و دقیقا همون بینایی رو بهش منتقل کرد، و احتمالا همین کانسپت برای حس شنوایی و بویایی و .... کم کم استخراج و اثبات میشه"
+  },
+  {
+   "id": 129,
+   "type": "message",
+   "date": "2021-02-10T13:13:42",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 128,
+   "text": "آره. چون در نهایت همه‌ی اینها ختم میشه به تحریک نورون‌های مغز. اگه بتونی اون تحریک‌ها رو با سیگنال‌های الکتریکی شبیه‌سازی کنی، حس بویایی، لامسه، خواب و همه‌ی اینا حل میشه."
+  },
+  {
+   "id": 130,
+   "type": "message",
+   "date": "2021-02-10T13:16:10",
+   "edited": "2021-02-10T13:17:18",
+   "from": "Fatemeh Modarres",
+   "from_id": 4727036304,
+   "text": "بعدش اون انتقال دهنده های عصبی رو میذارن برا رباته، یعنی مثلا فلان چیزی رو دیدی، فلان ری اکشن رو نشون بده، یعنی یه شبیه سازی کامل از انسان و دیگه کلا وجود ادم هیچ ضرورتی نداره، ربات های هوشمند میان جای ادما🙈 دیگه فک کنم بشر داره ب ته خط میرسه😂"
+  },
+  {
+   "id": 131,
+   "type": "message",
+   "date": "2021-02-10T13:34:35",
+   "edited": "2021-02-10T13:49:58",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 130,
+   "text": "آره دقیقا. بعد برای اونا خلقتشون توسط بشر میشه مه‌بانگ جدید و همش براشون سوال میشه که قبل مه‌بانگ چی بوده، چرا بوجود اومدن، بعد اینکه مردن چی میشن و سایر موارد :))"
+  },
+  {
+   "id": 132,
+   "type": "message",
+   "date": "2021-02-10T13:36:01",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "reply_to_message_id": 131,
+   "text": "😂😂😂😂😂😂😂 دهنت سرویس علی"
+  },
+  {
+   "id": 133,
+   "type": "message",
+   "date": "2021-02-10T13:36:48",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 132,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 3,
+   "width": 320,
+   "height": 314,
+   "text": ""
+  },
+  {
+   "id": 134,
+   "type": "message",
+   "date": "2021-02-10T13:49:25",
+   "from": "Amin",
+   "from_id": 4391189599,
+   "reply_to_message_id": 131,
+   "text": "مهبانگ؟ 😂😂 در مورد ریشه‌ی کلمه هم توضیح میدی استاد؟"
+  },
+  {
+   "id": 135,
+   "type": "message",
+   "date": "2021-02-10T13:50:13",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 134,
+   "text": [
+    "دیگه به هر حال من فارسی را پاس می‌دارم وگرنه همون بیگ بنگ :))\n\n",
+    {
+     "type": "link",
+     "text": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%E2%80%8C%D8%A8%D8%A7%D9%86%DA%AF"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 136,
+   "type": "message",
+   "date": "2021-02-10T13:50:33",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "ترجمه مناسبیه بنظرم اتفاقا"
+  },
+  {
+   "id": 137,
+   "type": "message",
+   "date": "2021-02-10T13:50:39",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "بانگ بزرگ"
+  },
+  {
+   "id": 138,
+   "type": "message",
+   "date": "2021-02-10T13:52:39",
+   "from": "Amin",
+   "from_id": 4391189599,
+   "reply_to_message_id": 135,
+   "text": "😂😂😂 بانگ بیشتر بهش میاد بانگ خروس یا بانگ اذان باشه!"
+  },
+  {
+   "id": 139,
+   "type": "message",
+   "date": "2021-02-10T13:52:54",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "نه دیگه"
+  },
+  {
+   "id": 140,
+   "type": "message",
+   "date": "2021-02-10T13:53:13",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "نمیدونم البته"
+  },
+  {
+   "id": 142,
+   "type": "message",
+   "date": "2021-02-10T14:18:36",
+   "from": "Amir Sajedian",
+   "from_id": 4377290921,
+   "reply_to_message_id": 131,
+   "text": "مریض هم نمی شن ؟"
+  },
+  {
+   "id": 143,
+   "type": "message",
+   "date": "2021-02-10T14:19:23",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 142,
+   "text": "چرا دیگه. ویروس کامپیوتری می‌گیرن میشه همون مریضی ما :))"
+  },
+  {
+   "id": 144,
+   "type": "message",
+   "date": "2021-02-10T14:19:55",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "مریضی لا علاج چی"
+  },
+  {
+   "id": 145,
+   "type": "message",
+   "date": "2021-02-10T14:20:25",
+   "from": "Amir Sajedian",
+   "from_id": 4377290921,
+   "text": "انتی ویروس نصب کنن که دیگه حله"
+  },
+  {
+   "id": 146,
+   "type": "message",
+   "date": "2021-02-10T14:20:29",
+   "from": "Amir Sajedian",
+   "from_id": 4377290921,
+   "text": "😂😂😂😂😂"
+  },
+  {
+   "id": 147,
+   "type": "message",
+   "date": "2021-02-10T14:20:53",
+   "from": "Amir Sajedian",
+   "from_id": 4377290921,
+   "text": "اصلا سیستم عاملشون رو لینوکس می بندن که ویروس هم نشه راحت گرفت"
+  },
+  {
+   "id": 148,
+   "type": "message",
+   "date": "2021-02-10T14:21:19",
+   "from": "Amir Sajedian",
+   "from_id": 4377290921,
+   "text": "بعد اینا ، می دونن که می دونن؟"
+  },
+  {
+   "id": 149,
+   "type": "message",
+   "date": "2021-02-10T14:21:52",
+   "from": "Amir Sajedian",
+   "from_id": 4377290921,
+   "text": "یا می دونن که نمی دونن ؟"
+  },
+  {
+   "id": 150,
+   "type": "message",
+   "date": "2021-02-10T14:24:54",
+   "from": "Fatemeh Modarres",
+   "from_id": 4727036304,
+   "reply_to_message_id": 131,
+   "text": "👌"
+  },
+  {
+   "id": 151,
+   "type": "message",
+   "date": "2021-02-10T14:29:39",
+   "from": "Amir Sajedian",
+   "from_id": 4377290921,
+   "text": "از تو ربات ها مثلا می تونیم ترامپ و احمدی نژاد و اوباما و ...دربیاریم ؟😂😂😂"
+  },
+  {
+   "id": 152,
+   "type": "message",
+   "date": "2021-02-10T14:29:52",
+   "from": "Amir Sajedian",
+   "from_id": 4377290921,
+   "text": "ربات احمدی نژادی دوست دارم ببینم"
+  },
+  {
+   "id": 153,
+   "type": "message",
+   "date": "2021-02-10T14:29:56",
+   "from": "Amir Sajedian",
+   "from_id": 4377290921,
+   "text": "😂😂😂😂😂"
+  },
+  {
+   "id": 154,
+   "type": "message",
+   "date": "2021-02-10T14:30:44",
+   "edited": "2021-02-10T14:30:52",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 145,
+   "text": "آنتی‌ویروس هم اول ورود یه ویروس جدید کار نمی‌کنه مثل همین کرونا.\nاون لینوکس هم که میگی همین جنتی خودمونه. آخ نمیگه هیچ وقت :))"
+  },
+  {
+   "id": 155,
+   "type": "message",
+   "date": "2021-02-10T17:26:34",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 85,
+   "text": "ساعت ۵ و نیم. Data Structure."
+  },
+  {
+   "id": 156,
+   "type": "message",
+   "date": "2021-02-12T17:07:27",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 85,
+   "text": "جلسه‌ی پایتون امروز ساعت ۵ و نیم فراموش نشه.\n\nهم تمرینه هم یکم درس دادن. جلسه‌ی روز‌های جمعه رو جوین شین."
+  },
+  {
+   "id": 157,
+   "type": "message",
+   "date": "2021-02-12T18:49:34",
+   "from": "Mahsa Taheri",
+   "from_id": 4589492349,
+   "reply_to_message_id": 156,
+   "text": "من الان دیدم اینو 😭😭"
+  },
+  {
+   "id": 158,
+   "type": "message",
+   "date": "2021-02-13T14:09:31",
+   "edited": "2021-02-13T14:10:17",
+   "from": "Arefe B",
+   "from_id": 4363571851,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Aliii_H93"
+    },
+    " علی فرض بر اینه که پیام رمز شده همه با حروف بزرگ بوده؟ یا محدودیتی نداره؟ چون اسکی حروف کوچک ترکیب دو رقمی و سه رقمی هست ولی اسکی حروف بزرگ همه دورقمی"
+   ]
+  },
+  {
+   "id": 159,
+   "type": "message",
+   "date": "2021-02-13T14:12:35",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "عارفه هر جیزی میتونه باشه رمز"
+  },
+  {
+   "id": 160,
+   "type": "message",
+   "date": "2021-02-13T14:12:48",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "اسکی میتونه تا ۱۲۸ باشه"
+  },
+  {
+   "id": 161,
+   "type": "message",
+   "date": "2021-02-13T14:13:06",
+   "from": "Arefe B",
+   "from_id": 4363571851,
+   "text": "اکی"
+  },
+  {
+   "id": 162,
+   "type": "message",
+   "date": "2021-02-13T14:20:22",
+   "from": "Arefe B",
+   "from_id": 4363571851,
+   "text": "اخه اگه هرچی پس شیفت توی مثلا @ به چه معناست؟ 🙄"
+  },
+  {
+   "id": 163,
+   "type": "message",
+   "date": "2021-02-13T14:20:35",
+   "from": "Arefe B",
+   "from_id": 4363571851,
+   "text": "نمیشه دیگه شیفت روی حروف هست"
+  },
+  {
+   "id": 164,
+   "type": "message",
+   "date": "2021-02-13T14:21:04",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "اره حروف شیفت میکنن یهو میشن مثلا ($@؟!"
+  },
+  {
+   "id": 165,
+   "type": "message",
+   "date": "2021-02-13T14:21:19",
+   "from": "Arefe B",
+   "from_id": 4363571851,
+   "text": "من فکر کنم دیشب چرت میزدم داشت صورت مساله رو میگفت😆"
+  },
+  {
+   "id": 166,
+   "type": "message",
+   "date": "2021-02-13T14:21:21",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "یعنی لزوما حرف نمی مونن بعد از شیفت"
+  },
+  {
+   "id": 167,
+   "type": "message",
+   "date": "2021-02-13T14:23:20",
+   "from": "Arefe B",
+   "from_id": 4363571851,
+   "text": "پیام اصلی اول شیفت داده شده بعد شده اسکی. درست فهمیدم اینو؟"
+  },
+  {
+   "id": 168,
+   "type": "message",
+   "date": "2021-02-13T14:25:04",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "ببین پیام شده اسکی، بعد شیفت کرده، بعد برگشته به حروف دست ما رسیده 😁"
+  },
+  {
+   "id": 169,
+   "type": "message",
+   "date": "2021-02-13T14:25:44",
+   "from": "Arefe B",
+   "from_id": 4363571851,
+   "reply_to_message_id": 168,
+   "text": "اهان خب این درست شدمرسی👌"
+  },
+  {
+   "id": 170,
+   "type": "message",
+   "date": "2021-02-13T14:41:58",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "reply_to_message_id": 169,
+   "text": "خواهش میکنم"
+  },
+  {
+   "id": 171,
+   "type": "message",
+   "date": "2021-02-13T17:13:40",
+   "from": "Farnoush Azour",
+   "from_id": 4406879197,
+   "text": "بچه ها سلام:) ۵ و نیم کلاسه؟"
+  },
+  {
+   "id": 172,
+   "type": "message",
+   "date": "2021-02-13T17:18:33",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 171,
+   "text": "آره هست."
+  },
+  {
+   "id": 173,
+   "type": "message",
+   "date": "2021-02-13T17:18:53",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 85,
+   "text": "کلاس ساعت ۵ و نیم یادتون نره."
+  },
+  {
+   "id": 174,
+   "type": "message",
+   "date": "2021-02-13T17:32:46",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "text": "امروز Object Oriented Programming میگم. گفتم اگه کسی خواست بیاد حتما."
+  },
+  {
+   "id": 175,
+   "type": "message",
+   "date": "2021-02-15T10:45:40",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "علی جون‌ فیلم دو جلسه اخر رو اپلود میکنی؟ باتشکر.... 🙏🏻🙏🏻🙏🏻"
+  },
+  {
+   "id": 176,
+   "type": "message",
+   "date": "2021-02-15T10:54:08",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 175,
+   "text": "همون بعد جلسه گذاشتم توی گوگل داک فکر کنم. مگه نیست؟"
+  },
+  {
+   "id": 177,
+   "type": "message",
+   "date": "2021-02-15T10:54:48",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "Oop رودیشب ندیدم"
+  },
+  {
+   "id": 178,
+   "type": "message",
+   "date": "2021-02-15T10:55:00",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "شایداشتباه از منه بذار دوباره چک میکنم"
+  },
+  {
+   "id": 179,
+   "type": "message",
+   "date": "2021-02-15T10:55:12",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "ممنون 😊😊"
+  },
+  {
+   "id": 180,
+   "type": "message",
+   "date": "2021-02-15T17:28:10",
+   "from": "Farnoush Azour",
+   "from_id": 4406879197,
+   "text": "اقا امروز دوشمیس دیگه؟ کلاس داریم درسه؟"
+  },
+  {
+   "id": 181,
+   "type": "message",
+   "date": "2021-02-15T17:28:24",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "احتمالا بله"
+  },
+  {
+   "id": 182,
+   "type": "message",
+   "date": "2021-02-15T17:28:49",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "text": "آره داریم."
+  },
+  {
+   "id": 183,
+   "type": "message",
+   "date": "2021-02-15T17:28:50",
+   "from": "Farnoush Azour",
+   "from_id": 4406879197,
+   "text": "من از وقتی کویید شده همواره با استرس اینکه کلاسامو یادم بره موجهم"
+  },
+  {
+   "id": 184,
+   "type": "message",
+   "date": "2021-02-15T17:29:05",
+   "from": "Farnoush Azour",
+   "from_id": 4406879197,
+   "text": "خب علی اقا من پشت درم:))"
+  },
+  {
+   "id": 185,
+   "type": "message",
+   "date": "2021-02-15T17:29:17",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "text": "الان درو باز می‌کنم :))"
+  },
+  {
+   "id": 186,
+   "type": "message",
+   "date": "2021-02-15T17:29:30",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 85,
+   "text": "جلسه‌ی لینوکس رو جوین بشین."
+  },
+  {
+   "id": 187,
+   "type": "service",
+   "date": "2021-02-16T12:55:39",
+   "actor": "Mohsen",
+   "actor_id": 4421955607,
+   "action": "invite_members",
+   "members": [
+    "M"
+   ],
+   "text": ""
+  },
+  {
+   "id": 188,
+   "type": "message",
+   "date": "2021-02-17T14:11:22",
+   "from": "M",
+   "from_id": 4394546940,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Aliii_H93"
+    },
+    " سلام علي\nببخشيد من يه كم دير ملحق شدم به گروه حون سرم شلوغ بود\nمن جلسه اول رو گوش دادم اما نتونستم نصب كنم. امكانش هست من يه ربع زودتر بيام تا مشكلمو اگه ميتوني يه نگاه بهش بندازي؟ ممنون كه وقت ميذاري"
+   ]
+  },
+  {
+   "id": 190,
+   "type": "message",
+   "date": "2021-02-17T14:36:23",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "text": "بچه‌ها اگه کسی مشکلی داره روی هر چیزی، بعد کلاس‌های هر هفته می‌تونه بمونه حلش کنیم.\nحالا چه امروز چه هر روز دیگه‌ای که جلسه هست"
+  },
+  {
+   "id": 191,
+   "type": "message",
+   "date": "2021-02-17T14:37:21",
+   "from": "M",
+   "from_id": 4394546940,
+   "text": "دمت گرم"
+  },
+  {
+   "id": 199,
+   "type": "message",
+   "date": "2021-02-17T17:28:25",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 85,
+   "text": "کلاس Data Structure ساعت ۵:۳۰."
+  },
+  {
+   "id": 200,
+   "type": "service",
+   "date": "2021-02-17T19:12:46",
+   "actor": "Adrian Kamyab",
+   "actor_id": 5247038143,
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 209,
+   "type": "service",
+   "date": "2021-02-18T13:37:46",
+   "actor": "Ali Hejazi",
+   "actor_id": 4368073731,
+   "action": "pin_message",
+   "message_id": 201,
+   "text": ""
+  },
+  {
+   "id": 237,
+   "type": "service",
+   "date": "2021-02-18T16:14:36",
+   "actor": "Ali Hejazi",
+   "actor_id": 4368073731,
+   "action": "invite_members",
+   "members": [
+    "Mohammad Riazi"
+   ],
+   "text": ""
+  },
+  {
+   "id": 238,
+   "type": "message",
+   "date": "2021-02-18T16:17:28",
+   "edited": "2021-02-18T16:24:07",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 237,
+   "text": "بچه‌ها محمد team leader من توی AltaML عه. الان باهاش میتینگ داشتم بحث این کلاس‌ها پیش اومد، دوست داشت که کلاس‌ها رو ببینه و احتمالا بیشتر از من کمک می‌کنه حتی.\n\nحالا احتمالا از شنبه بهمون join میشه."
+  },
+  {
+   "id": 239,
+   "type": "message",
+   "date": "2021-02-18T16:17:58",
+   "from": "Sara Gh",
+   "from_id": 4393680157,
+   "reply_to_message_id": 238,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 240,
+   "type": "message",
+   "date": "2021-02-18T16:18:25",
+   "from": "Sara Gh",
+   "from_id": 4393680157,
+   "reply_to_message_id": 238,
+   "text": "محمد ریاضی؟"
+  },
+  {
+   "id": 241,
+   "type": "message",
+   "date": "2021-02-18T16:18:48",
+   "from": "M",
+   "from_id": 4394546940,
+   "reply_to_message_id": 240,
+   "text": "بله"
+  },
+  {
+   "id": 242,
+   "type": "message",
+   "date": "2021-02-18T16:19:21",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 240,
+   "text": "آره. من یه سری از پیام‌های قبلی رو پاک کردم که راحت‌تر بتونه پیدا کنه مطالب رو (گفتم بگم که کسی یه وقت ناراحت نشه)."
+  },
+  {
+   "id": 243,
+   "type": "message",
+   "date": "2021-02-18T16:19:42",
+   "from": "Sara Gh",
+   "from_id": 4393680157,
+   "reply_to_message_id": 242,
+   "text": "عالی برادر👌🏻👌🏻"
+  },
+  {
+   "id": 244,
+   "type": "message",
+   "date": "2021-02-18T16:20:23",
+   "from": "Sara Gh",
+   "from_id": 4393680157,
+   "reply_to_message_id": 237,
+   "text": "عههه من الان دیدم اینو😅😅"
+  },
+  {
+   "id": 245,
+   "type": "message",
+   "date": "2021-02-18T16:23:47",
+   "from": "Arash",
+   "from_id": 4390579564,
+   "reply_to_message_id": 238,
+   "text": "👍"
+  },
+  {
+   "id": 246,
+   "type": "message",
+   "date": "2021-02-18T16:24:17",
+   "from": "M",
+   "from_id": 4394546940,
+   "reply_to_message_id": 242,
+   "text": "👍"
+  },
+  {
+   "id": 247,
+   "type": "message",
+   "date": "2021-02-18T16:25:15",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": [
+    "به به حاج‌محمد گل ",
+    {
+     "type": "mention",
+     "text": "@mohammad_riazi"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 248,
+   "type": "message",
+   "date": "2021-02-18T16:26:11",
+   "from": "Sara Gh",
+   "from_id": 4393680157,
+   "text": [
+    "خوش اومدی محمد جان ",
+    {
+     "type": "mention",
+     "text": "@mohammad_riazi"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 249,
+   "type": "message",
+   "date": "2021-02-18T16:45:04",
+   "from": "Adrian Kamyab",
+   "from_id": 5247038143,
+   "text": "بنده هم خوشحال هستم ک تو جمع شما هستم"
+  },
+  {
+   "id": 250,
+   "type": "message",
+   "date": "2021-02-18T16:55:34",
+   "from": "Fatemeh Modarres",
+   "from_id": 4727036304,
+   "reply_to_message_id": 238,
+   "text": "👌"
+  },
+  {
+   "id": 251,
+   "type": "message",
+   "date": "2021-02-18T17:02:17",
+   "from": "Mostafa",
+   "from_id": 4388900133,
+   "reply_to_message_id": 238,
+   "text": "علی تو شرکت AltaML کار میکنی؟ یه مدت پیش یه مدل پیش بینی واسه شرکت ما انجام دادن، یه تیک هفت هشت نفره اومدن پرزنت کردن"
+  },
+  {
+   "id": 252,
+   "type": "message",
+   "date": "2021-02-18T17:27:36",
+   "from": "Mohammad pmb",
+   "from_id": 5432092319,
+   "text": "tooshim"
+  },
+  {
+   "id": 253,
+   "type": "message",
+   "date": "2021-02-18T17:30:46",
+   "from": "Mohammad pmb",
+   "from_id": 5432092319,
+   "text": "Oops, fek kardam emruz jomast"
+  },
+  {
+   "id": 254,
+   "type": "message",
+   "date": "2021-02-18T17:30:52",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "text": "محمد امروز کلاس نیست 😂😂😂😂😂😂😂"
+  },
+  {
+   "id": 255,
+   "type": "message",
+   "date": "2021-02-18T17:31:14",
+   "from": "Mohsen",
+   "from_id": 4421955607,
+   "reply_to_message_id": 253,
+   "text": "محمد کدوم شرکتی؟ دست ما رو هم بند کن 🤣🤣"
+  },
+  {
+   "id": 256,
+   "type": "message",
+   "date": "2021-02-18T17:31:29",
+   "from": "Mohammad pmb",
+   "from_id": 5432092319,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 6,
+   "width": 640,
+   "height": 360,
+   "text": ""
+  },
+  {
+   "id": 257,
+   "type": "message",
+   "date": "2021-02-18T18:00:51",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 251,
+   "text": "آره. شرکت ما زیاد پرزنت می‌کنه کلا :))"
+  },
+  {
+   "id": 258,
+   "type": "message",
+   "date": "2021-02-18T18:32:41",
+   "from": "Mohammad Riazi",
+   "from_id": 4445089928,
+   "text": "سلام به همه دوستان،\nعلی محبت داره و خودش استاد هست. من صرفا دوست داشتم کسب تجربه کنم. مطالبی رو که با کمک شما آماده کرده واقعا عالی هست. \nممنون از اینکه من رو هم به جمعتون اضافه کردین 🌸\nبامید دیدار"
+  },
+  {
+   "id": 259,
+   "type": "message",
+   "date": "2021-02-18T18:32:55",
+   "from": "Mohammad Riazi",
+   "from_id": 4445089928,
+   "reply_to_message_id": 247,
+   "text": "ارادت محسن جان 😊"
+  },
+  {
+   "id": 260,
+   "type": "message",
+   "date": "2021-02-18T18:33:08",
+   "from": "Mohammad Riazi",
+   "from_id": 4445089928,
+   "reply_to_message_id": 248,
+   "text": "ممنون سارا جان 🌸"
+  },
+  {
+   "id": 261,
+   "type": "message",
+   "date": "2021-02-18T18:33:26",
+   "from": "Mohammad Riazi",
+   "from_id": 4445089928,
+   "text": "چقدر چهره های آشنایی داخل گروه هستن 👌🏻"
+  },
+  {
+   "id": 262,
+   "type": "message",
+   "date": "2021-02-18T21:17:16",
+   "from": "Arash",
+   "from_id": 4390579564,
+   "reply_to_message_id": 261,
+   "text": "سلام محمد جان، خوشحالم اینجا میبینمت."
+  },
+  {
+   "id": 264,
+   "type": "message",
+   "date": "2021-02-19T16:45:22",
+   "from": "M",
+   "from_id": 4394546940,
+   "text": "امروز كلاس ٥:٣٠ شروع ميشه؟"
+  },
+  {
+   "id": 265,
+   "type": "message",
+   "date": "2021-02-19T16:47:18",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "text": "همیشه ۵ و نیمه"
+  },
+  {
+   "id": 266,
+   "type": "message",
+   "date": "2021-02-19T16:47:24",
+   "from": "M",
+   "from_id": 4394546940,
+   "text": "مرسي"
+  },
+  {
+   "id": 267,
+   "type": "message",
+   "date": "2021-02-19T17:24:01",
+   "from": "Adrian Kamyab",
+   "from_id": 5247038143,
+   "text": "لینکش همینجاس؟"
+  },
+  {
+   "id": 268,
+   "type": "message",
+   "date": "2021-02-19T17:24:08",
+   "from": "Adrian Kamyab",
+   "from_id": 5247038143,
+   "text": "لینک زومش؟"
+  },
+  {
+   "id": 269,
+   "type": "message",
+   "date": "2021-02-19T17:25:23",
+   "from": "Ali Hejazi",
+   "from_id": 4368073731,
+   "reply_to_message_id": 85,
+   "text": "جلسه‌ی Python Practice رو جوین شو"
+  }
+ ]
+}
