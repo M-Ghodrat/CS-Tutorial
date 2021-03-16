@@ -24,7 +24,7 @@ index_label = 'Unnamed: 0'
 test_size = 0.20
 Data = Dataset(dataframe=df, label=label, test_size=test_size)
 
-n_neighbors = 5
+n_neighbors = 15
 # weights = 'uniform'
 weights = 'distance'
 knn = KNN(dataset=Data, n_neighbors=n_neighbors, weights = weights)
