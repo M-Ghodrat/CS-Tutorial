@@ -1,43 +1,48 @@
-import numpy as np
-import pandas as pd
-#import plotly.express as px
-#import plotly.graph_objects as go
-from sklearn import neighbors
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn import model_selection
-from sklearn.metrics import accuracy_score
-from sklearn.metrics import precision_score
-from sklearn.metrics import recall_score
-from sklearn.metrics import classification_report
-from sklearn.metrics import confusion_matrix
-from sklearn.metrics import plot_confusion_matrix
-from sklearn.preprocessing import StandardScaler
-from sklearn.model_selection import KFold
-from sklearn.metrics import f1_score
+#%%
+# import numpy, pandas, sklearn
+from imports import *
+
+# import defined classes, attributes and methods
 from predict import *
 
-df = pd.read_csv("/home/mgh/CS-Tutorial/Extra/KNN/dataset/new_MinMaxScaled.csv")
+# import prints function
+import prints
 
+# import decisionboundaries function
+import plots
+
+# read .csv file
+df = pd.read_csv("/home/mgh/CS-Tutorial/Extra/KNN/dataset/df_final_normalized.csv")
+# df = df[:100]
+df.reset_index(drop=True, inplace=True)
+
+# define label and index columns
 label = 'regime'
 index_label = 'Unnamed: 0'
 
+# create the dataset object
 test_size = 0.20
 Data = Dataset(dataframe=df, label=label, test_size=test_size)
 
+#%%
+# create knn model and perform predictions
 n_neighbors = 15
-# weights = 'uniform'
-weights = 'distance'
-knn = KNN(dataset=Data, n_neighbors=n_neighbors, weights = weights)
+weights = 'uniform' # 'distance'
 
-print(f"Confusion_matrix_train for k={n_neighbors}, weights={weights}:", knn.train_confusion_matrix)
-print(f"Confusion_matrix_test for k={n_neighbors}, weights={weights}:", knn.test_confusion_matrix)
-print(f"Classification_report_train for k={n_neighbors}, weights={weights}:", knn.train_classification_report)
-print(f"Classification_report_test for k={n_neighbors}, weights={weights}:", knn.test_classification_report)
-print(f"Accuracy_score_train for k={n_neighbors}, weights={weights}:", knn.train_accuracy_score)
-print(f"Accuracy_score_test for k={n_neighbors}, weights={weights}:", knn.test_accuracy_score)
-print(f"Precision_score_train for k={n_neighbors}, weights={weights}:" , knn.train_precision_score)
-print(f"Precision_score_test for k={n_neighbors}, weights={weights}:" , knn.test_precision_score)
-print(f"F1_score_train for k={n_neighbors}, weights={weights}:" , knn.train_f1_score)
-print(f"F1_score_test for k={n_neighbors}, weights={weights}:" , knn.test_f1_score)
+#%%
+knn = KNN(dataset=Data, n_neighbors=n_neighbors, weights=weights)
 
-plot_confusion_matrix(knn.knn_model, Data.feature_test, Data.label_test)
+# call the print commands
+prints.confusion_matrix(model=knn, n_neighbors=n_neighbors , weights=weights)
+prints.classification_report(model=knn, n_neighbors=n_neighbors , weights=weights)
+prints.accuracy_score(model=knn, n_neighbors=n_neighbors , weights=weights)
+prints.precision_score(model=knn, n_neighbors=n_neighbors , weights=weights)
+prints.F1_score_test(model=knn, n_neighbors=n_neighbors , weights=weights)
+
+#%%
+# plot decision_boundaries
+feature_1 = 'water_T'
+feature_2 = 'O2Sat'
+plots.decisionboundaries(dataset=Data, df=df, x_axis=feature_1, y_axis=feature_2, n_neighbors=n_neighbors, weights=weights)
+
+# %%
