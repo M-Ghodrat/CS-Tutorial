@@ -1,4 +1,4 @@
-
+What to Prepare:
 - Resume 
 - Test (ML-Statistics-Visualization) --> you can search in google
 - Code (Regression)
@@ -11,6 +11,6 @@ Interview Questions:
 - Talk about your projects
 - Your roles in them
 
-technical questions:
+Technical Questions:
 - standard scaling before test-train or after?
 - Tensorflow vs Keras --> Keras is more user friendly

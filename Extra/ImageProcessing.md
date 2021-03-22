@@ -4,7 +4,7 @@ Problems:
 - Classification
 - Segmentation (pixel-level classification)
 - Object detection
-- Immage to image 
+- Image to image 
 
 Preprocessing --> not much, maybe increase the contrast
 
@@ -32,8 +32,8 @@ Other things:
 Reading data is batch-batch due to to the big size of data
 
 Network: 
--discriminator ---> classification
--generator ---> generate human pictures
+- discriminator ---> classification
+- generator ---> generate human pictures
 
 should know classic methods 
 -pca
