@@ -22,3 +22,9 @@ git rm --cached <file name>
 git commit -m <message>
 git push -u origin branch
 ```
+
+#### 4. Remove a specific file from the staging area:
+
+```
+git restore --staged <individual_file>
+```
