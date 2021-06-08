@@ -50,7 +50,7 @@ Circle's Interview:
 - what do you do in the case of overfit/underfit?
 - what is dropout?
 - what do you do when you have saturation in the learning curve? 
-- what is precission recall curve?
+- what is precision recall curve?
 - auto encoders?
 
 ---------------------------
