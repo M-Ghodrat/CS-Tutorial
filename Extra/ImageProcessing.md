@@ -14,10 +14,10 @@ Issues:
 - overfit
 - underfit
 - bias
--variance
+- variance
 
 read these:
-U-Net, Rez-Net (classification), Residual block, transfer learning
+U-Net, Res-Net (classification), Residual block, transfer learning
 
 batch size, kernel size (for high-detail images)
 
@@ -36,8 +36,8 @@ Network:
 - generator ---> generate human pictures
 
 should know classic methods 
--pca
--svm
+- pca
+- svm
 that are used for image, too
 
 ---------------------------
